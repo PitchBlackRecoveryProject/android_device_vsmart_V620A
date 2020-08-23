@@ -15,5 +15,5 @@
 #
 # Please maintain this if you use this script or any part of it
 #
-add_lunch_combo omni_violet-eng
-add_lunch_combo omni_violet-userdebug
+add_lunch_combo omni_V620A-eng
+add_lunch_combo omni_V620A-userdebug

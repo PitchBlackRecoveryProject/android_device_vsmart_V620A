@@ -864,7 +864,7 @@
         <fqname>@1.0::IRTPService/imsrtpservice</fqname>
     </hal>
     <hal format="hidl">
-        <name>vendor.xiaomi.hardware.mfidoca</name>
+        <name>vendor.vsmart.hardware.mfidoca</name>
         <transport>hwbinder</transport>
         <version>1.0</version>
         <interface>
@@ -874,7 +874,7 @@
         <fqname>@1.0::IFidoService/default</fqname>
     </hal>
     <hal format="hidl">
-        <name>vendor.xiaomi.hardware.mlipay</name>
+        <name>vendor.vsmart.hardware.mlipay</name>
         <transport>hwbinder</transport>
         <version>1.1</version>
         <interface>
@@ -884,7 +884,7 @@
         <fqname>@1.1::IMlipayService/default</fqname>
     </hal>
     <hal format="hidl">
-        <name>vendor.xiaomi.hardware.mtdservice</name>
+        <name>vendor.vsmart.hardware.mtdservice</name>
         <transport>hwbinder</transport>
         <version>1.2</version>
         <interface>
@@ -894,7 +894,7 @@
         <fqname>@1.2::IMTService/default</fqname>
     </hal>
     <hal format="hidl">
-        <name>vendor.xiaomi.hardware.tidaservice</name>
+        <name>vendor.vsmart.hardware.tidaservice</name>
         <transport>hwbinder</transport>
         <version>1.1</version>
         <interface>
@@ -904,7 +904,7 @@
         <fqname>@1.1::ITidaService/default</fqname>
     </hal>
     <hal format="hidl">
-        <name>vendor.xiaomi.hardware.vsimapp</name>
+        <name>vendor.vsmart.hardware.vsimapp</name>
         <transport>hwbinder</transport>
         <version>1.0</version>
         <interface>

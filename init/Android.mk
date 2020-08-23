@@ -22,7 +22,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_C_INCLUDES := \
     system/core/base/include \
     system/core/init
-LOCAL_SRC_FILES := init_violet.cpp
-LOCAL_MODULE := libinit_violet
+LOCAL_SRC_FILES := init_V620A.cpp
+LOCAL_MODULE := libinit_V620A
 
 include $(BUILD_STATIC_LIBRARY)

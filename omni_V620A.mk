@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := violet
+PRODUCT_RELEASE_NAME := V620A
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -23,11 +23,11 @@ $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, vendor/pb/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := violet
-PRODUCT_NAME := omni_violet
-PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi Note 7 Pro
-PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_DEVICE := V620A
+PRODUCT_NAME := omni_V620A
+PRODUCT_BRAND := vsmart
+PRODUCT_MODEL := Vsmart Live
+PRODUCT_MANUFACTURER := vsmart
 
 # HACK: Set vendor patch level
 PRODUCT_PROPERTY_OVERRIDES += \
