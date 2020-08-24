@@ -12,9 +12,8 @@ jobs:
       CODENAME: 'V620A'
       BUILD_LUNCH: 'omni_V620A-eng'
       # It's either Official build or Test build
-      PB_OFFICIAL: 'true'
-      # TEST_BUILD: 'true'
-      EXTRA_CMD: 'cd system/libvintf && patch -p1 < ../../device/xiaomi/V620A/patches/system-libvintf-disable-vbmeta-check.patch && cd ../..'
+      # PB_OFFICIAL: 'true'
+      TEST_BUILD: 'true'
       CHANGELOG: |
         - Bringup 3.0 
         - Source side changes 
